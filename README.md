@@ -1,0 +1,2 @@
+# PrometheusOperatorCRD_Doc
+PrometheusOperatorのCRDについて日本語でまとめてみた内容です。随時更新予定。
